@@ -1,4 +1,4 @@
-fuel_consumption_analysis/
+european_energy_consumption/
 │
 ├── data/
 │   ├── estat_ten00123.tsv
@@ -6,7 +6,7 @@ fuel_consumption_analysis/
 │   ├── clean_energy.csv
 │
 ├── notebooks/
-│   ├── Fuel consumption analysis.ipynb
+│   ├── energy_consumption_analysis.ipynb
 │   ├── Energy Analytics Dashboard.ipynb
 │
 ├── images/
