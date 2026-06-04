@@ -1,8 +1,9 @@
 fuel_consumption_analysis/
 │
 ├── data/
-│   ├── clean_energy.csv
 │   ├── estat_ten00123.tsv
+│   ├── demo_pjan_linear
+│   ├── clean_energy.csv
 │
 ├── notebooks/
 │   ├── Fuel consumption analysis.ipynb
