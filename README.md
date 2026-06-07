@@ -11,7 +11,8 @@ european_energy_consumption/
 │   ├── Fuel Consumption Comparison (2013–2024) Ireland vs Ukraine 
 │   ├── Fuel Consumption Comparison Ireland vs Ukraine (2023)
 │   ├── Per Capita Energy Consumption by Country (Total fuels, 2023)
-│   └── elecricity_consumption_2024.png
+│   ├── elecricity_consumption_2024.png
+│   └── energy analytics dashboard
 │
 ├── notebooks/
 │   ├── energy_consumption_analysis.ipynb
