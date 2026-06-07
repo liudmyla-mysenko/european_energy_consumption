@@ -2,21 +2,21 @@ european_energy_consumption/
 │
 ├── data/
 │   ├── clean_energy.csv
-│   ├── demo_pjan_linear
+│   ├── demo_pjan_linear.zip
 │   ├── estat_ten00123.tsv
 │
 ├── images/
-│   ├── Energy Consumption by Country and Fuel (2013–2024, excluding Total)
-│   ├── Final Energy Consumption in Ireland by Fuel (2013–2024)
-│   ├── Fuel Consumption Comparison (2013–2024) Ireland vs Ukraine 
-│   ├── Fuel Consumption Comparison Ireland vs Ukraine (2023)
-│   ├── Per Capita Energy Consumption by Country (Total fuels, 2023)
 │   ├── elecricity_consumption_2024.png
-│   └── energy analytics dashboard
+│   ├── energy_analytics_dashboard.gif
+│   ├── energy_consumption_heatmap.png 
+│   ├── energy_consumption_stacked_bar_ireland.png
+│   ├── fuel_consumption_bar_chart_ie_ua.png
+│   ├── fuel_consumption_ireland_ukraine_2023.png
+│   └── per_capita_energy_2023.png
 │
 ├── notebooks/
 │   ├── energy_consumption_analysis.ipynb
-│   ├── Energy Analytics Dashboard.ipynb
+│   ├── energy_analytics_dashboard.ipynb
 │
 │
 │
