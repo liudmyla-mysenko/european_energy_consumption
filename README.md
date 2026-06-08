@@ -1,73 +1,87 @@
-# European Energy Consumption Analysis
-A data‑driven exploration of energy usage patterns across European countries, including focused comparison between Ireland and Ukraine.
-## Overview
-This project analyzes European energy consumption using publicly available datasets.
-## It explores:
-Country‑level energy consumption patterns
-Long‑term trends in total and per‑capita usage
-Regional differences across Europe
-A detailed comparison between Ireland and Ukraine
-### The goal is to demonstrate strong skills in Python, data cleaning, exploratory analysis, visualization, and dashboard development.
-## Project Structure
+# 🇪🇺 European Energy Consumption Analysis  
+### A Data Analytics Project Using Python, Pandas, Matplotlib & Seaborn
+
+This project explores **energy consumption patterns across European countries**, with a special focus on **Ireland and Ukraine**.  
+It includes data cleaning, exploratory analysis, visualizations, and an interactive dashboard preview.
+
+---
+
+## 📌 Project Overview
+
+This analysis answers key questions:
+
+- How does electricity consumption vary across Europe?
+- How do Ireland and Ukraine compare in their **fuel mix** and **per‑capita energy use**?
+- What trends can be observed in 2023–2024?
+- Which countries consume the most energy per person?
+
+The project uses:
+
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Jupyter Notebook**
+- **Custom visualizations**
+- **GIF dashboard preview**
+
+---
+
+## 📂 Repository Structure
+
 european_energy_consumption/
 │
-├── data/
-│   ├── clean_energy.csv
-│   ├── demo_pjan_linear.zip
-│   ├── estat_ten00123.tsv
-│
-├── images/
-│   ├── elecricity_consumption_2024.png
-│   ├── energy_analytics_dashboard.gif
-│   ├── energy_consumption_heatmap.png 
-│   ├── energy_consumption_stacked_bar_ireland.png
-│   ├── fuel_consumption_bar_chart_ie_ua.png
-│   ├── fuel_consumption_ireland_ukraine_2023.png
-│   └── per_capita_energy_2023.png
-│
-├── notebooks/
-│   ├── energy_consumption_analysis.ipynb
-│   ├── energy_analytics_dashboard.ipynb
-│
-│
-│
-└── README.md
-## Key Insights
-Northern and Western European countries show higher per‑capita consumption.
-Eastern Europe displays strong growth trends in certain sectors.
-Renewable energy adoption varies significantly between regions.
-Ireland relies heavily on oil and natural gas, while Ukraine has a more diverse mix.
-Ireland’s per‑capita consumption is significantly higher, driven by transport and services.
-Ukraine shows major structural shifts in energy use after 2014 and 2022.
+├── data/                     # Raw and cleaned datasets
+├── images/                   # All charts, maps, and GIFs
+├── notebooks/                # Jupyter notebooks
+├── scripts/                  # Python scripts for analysis
+└── README.md                 # Project documentation
 
-## Methods & Tools
-Data Processing
-Cleaning missing values
-Merging datasets
-Calculating per‑capita consumption
-Creating time‑series and regional aggregates
-Country‑to‑country comparison analysis
 
-## Technologies Used
-Python (Pandas, NumPy, Plotly, Dash)
-Jupyter Notebook
-Plotly Dash for interactive dashboard
-GitHub for version control
-## Visualizations
+---
 
-[![Electricity Consumption 2024](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/elecricity_consumption_2024.png)](https://github.com/liudmyla-mysenko/european_energy_consumption/blob/main/images/elecricity_consumption_2024.png)
+## 📊 Key Visualizations
 
-[![Consumption Map](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/energy_consumption_heatmap.png)](https://github.com/liudmyla-mysenko/european_energy_consumption/blob/main/images/energy_consumption_heatmap.png)
+### 🔌 Electricity Consumption in 2024
 
-[![Ireland vs Ukraine Fuel Mix (2023)](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/fuel_consumption_ireland_ukraine_2023.png)](https://github.com/liudmyla-mysenko/european_energy_consumption/blob/main/images/fuel_consumption_ireland_ukraine_2023.png)
+![Electricity Consumption 2024](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/elecricity_consumption_2024.png)
 
-[![Energy Consumption Trend](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/per_capita_energy_2023.png)](https://github.com/liudmyla-mysenko/european_energy_consumption/blob/main/images/per_capita_energy_2023.png)
+---
 
-### Interactive Dashboard
+### 🗺️ Energy Consumption Heatmap
 
-[![Dashboard Preview](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/energy_analytics_dashboard.gif)](https://github.com/liudmyla-mysenko/european_energy_consumption/blob/main/images/energy_analytics_dashboard.gif)
+![Energy Consumption Heatmap](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/energy_consumption_heatmap.png)
 
-The project includes a Dash application that allows users to explore:
-Country‑level consumption
-Year‑to‑year trends
+---
 
+### 🇮🇪🇺🇦 Ireland vs Ukraine Fuel Mix (2023)
+
+![Fuel Mix](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/fuel_consumption_ireland_ukraine_2023.png)
+
+---
+
+### 👥 Per‑Capita Energy Consumption (2023)
+
+![Per Capita Energy](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/per_capita_energy_2023.png)
+
+---
+
+## 📈 Interactive Dashboard Preview
+
+![Dashboard Preview](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/energy_analytics_dashboard.gif)
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data cleaning & preprocessing  
+- Exploratory data analysis (EDA)  
+- Data visualization (Matplotlib, Seaborn)  
+- Comparative analytics  
+- Dashboard design  
+- Clear documentation & storytelling  
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/liudmyla-mysenko/european_energy_consumption.git
