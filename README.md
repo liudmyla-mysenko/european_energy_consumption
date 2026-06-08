@@ -1,4 +1,4 @@
-European Energy Consumption Analysis
+# European Energy Consumption Analysis
 A data‑driven exploration of energy usage patterns across European countries, including a focused comparison between Ireland and Ukraine.
 Overview
 This project analyzes European energy consumption using publicly available datasets.
@@ -54,7 +54,7 @@ Jupyter Notebook
 Plotly Dash for interactive dashboard
 GitHub for version control
 Visualizations
-## 📈 Electricity Consumption in 2024
+## Electricity Consumption in 2024
 ![Electricity Consumption 2024](images/elecricity_consumption_2024.png)
 Consumption Map
 <img width="1502" height="989" alt="energy_consumption_heatmap png" src="https://github.com/user-attachments/assets/a70821b3-699a-41a6-8c22-d30a3306e3d6" />
