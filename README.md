@@ -54,13 +54,20 @@ Jupyter Notebook
 Plotly Dash for interactive dashboard
 GitHub for version control
 ## Visualizations
-### Electricity Consumption in 2024
-![Electricity Consumption 2024](images/elecricity_consumption_2024.png)
-![Consumption Map](images/energy_consumption_heatmap.png)
-![Ireland vs Ukraine Fuel Mix (2023)](fuel_consumption_ireland_ukraine_2023.png)
-![Energy Consumption Trend](per_capita_energy_2023.png)
-## Interactive Dashboard
+
+[![Electricity Consumption 2024](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/elecricity_consumption_2024.png)](https://github.com/liudmyla-mysenko/european_energy_consumption/blob/main/images/elecricity_consumption_2024.png)
+
+[![Consumption Map](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/energy_consumption_heatmap.png)](https://github.com/liudmyla-mysenko/european_energy_consumption/blob/main/images/energy_consumption_heatmap.png)
+
+[![Ireland vs Ukraine Fuel Mix (2023)](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/fuel_consumption_ireland_ukraine_2023.png)](https://github.com/liudmyla-mysenko/european_energy_consumption/blob/main/images/fuel_consumption_ireland_ukraine_2023.png)
+
+[![Energy Consumption Trend](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/per_capita_energy_2023.png)](https://github.com/liudmyla-mysenko/european_energy_consumption/blob/main/images/per_capita_energy_2023.png)
+
+### Interactive Dashboard
+
+[![Dashboard Preview](https://github.com/liudmyla-mysenko/european_energy_consumption/raw/main/images/energy_analytics_dashboard.gif)](https://github.com/liudmyla-mysenko/european_energy_consumption/blob/main/images/energy_analytics_dashboard.gif)
+
 The project includes a Dash application that allows users to explore:
 Country‑level consumption
 Year‑to‑year trends
-![Dashboard Preview](energy_analytics_dashboard.gif)
+
