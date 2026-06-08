@@ -1,5 +1,5 @@
 # European Energy Consumption Analysis
-A data‑driven exploration of energy usage patterns across European countries, including a focused comparison between Ireland and Ukraine.
+A data‑driven exploration of energy usage patterns across European countries, including focused comparison between Ireland and Ukraine.
 ## Overview
 This project analyzes European energy consumption using publicly available datasets.
 ## It explores:
