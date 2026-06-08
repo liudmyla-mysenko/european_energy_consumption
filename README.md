@@ -100,3 +100,4 @@ european_energy_consumption/
 1. Clone the repository:
    ```bash
    git clone https://github.com/liudmyla-mysenko/european_energy_consumption.git
+pip install -r requirements.txt
