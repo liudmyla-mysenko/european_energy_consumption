@@ -95,9 +95,54 @@ european_energy_consumption/
 
 ---
 
-## 🚀 How to Run the Project
+## 🔧 How to Run the Project
+1. Clone the Repository
+bash
+git clone https://github.com/liudmyla-mysenko/european_energy_consumption.git
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/liudmyla-mysenko/european_energy_consumption.git
+cd european_energy_consumption
+
+2. (Optional) Create a Virtual Environment
+bash
+python -m venv venv
+source venv/bin/activate      # macOS / Linux
+venv\Scripts\activate         # Windows
+
+3. Install Dependencies
+
 pip install -r requirements.txt
+4. Run the Data Analysis Notebook (Optional)
+This notebook performs data cleaning and exploratory analysis.
+
+bash
+jupyter notebook
+Open:
+
+Code
+notebooks/energy_consumption_analysis.ipynb
+Run all cells.
+
+5. Run the Interactive Dashboard (Main Feature)
+Open:
+
+Code
+notebooks/Energy Analytics Dashboard.ipynb
+Run all cells.
+
+✔ What happens next?
+Dash starts running
+
+You will see a message like:
+
+Code
+Dash is running on http://127.0.0.1:8050/
+The dashboard will appear directly inside the Jupyter Notebook output  
+(This is normal — Jupyter automatically embeds Dash apps.)
+
+You can interact with:
+
+A European energy consumption map
+
+A trend chart that updates when you hover
+
+Dropdown filters for year and metric
