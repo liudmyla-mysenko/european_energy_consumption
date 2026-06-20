@@ -29,6 +29,7 @@ The project uses:
 ---
 
 ## 📂 Repository Structure
+
 ''' 
 european_energy_consumption/
 │
@@ -52,7 +53,6 @@ european_energy_consumption/
 │
 └── README.md
 '''
-
 
 ## 📊 Key Visualizations
 
