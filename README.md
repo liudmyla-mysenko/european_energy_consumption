@@ -98,20 +98,19 @@ The dashboard presents both total energy consumption and per capita metrics, ena
 
 ## 🔧 How to Run the Project
 1. Clone the Repository
-bash
+   
 git clone https://github.com/liudmyla-mysenko/european_energy_consumption.git
-
 cd european_energy_consumption
 
 2. (Optional) Create a Virtual Environment
-bash
+   
 python -m venv venv
 source venv/bin/activate      # macOS / Linux
 venv\Scripts\activate         # Windows
 
-3. Install Dependencies
-
+5. Install Dependencies
 pip install -r requirements.txt
+
 4. Run the Data Analysis Notebook (Optional)
 This notebook performs data cleaning and exploratory analysis.
 
@@ -136,9 +135,7 @@ Dash starts running
 You will see a message like:
 
 Code
-Dash is running on http://127.0.0.1:8050/
 The dashboard will appear directly inside the Jupyter Notebook output  
-(This is normal — Jupyter automatically embeds Dash apps.)
 
 You can interact with:
 
@@ -147,3 +144,5 @@ A European energy consumption map
 A trend chart that updates when you hover
 
 Dropdown filters for year and metric
+
+The dashboard includes an interactive map, dynamic trend charts, and dropdown filters for year and metric selection.
