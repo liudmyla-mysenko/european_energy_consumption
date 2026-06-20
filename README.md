@@ -110,31 +110,41 @@ The dashboard includes an interactive map, dynamic trend charts, and dropdown fi
 ---
 
 ## 🔧 How to Run the Project
-1. Clone the Repository
+### 1. Clone the Repository
    
 git clone https://github.com/liudmyla-mysenko/european_energy_consumption.git
+
 cd european_energy_consumption
 
-2. (Optional) Create a Virtual Environment
+### 2. (Optional) Create a Virtual Environment
    
 python -m venv venv
+
 source venv/bin/activate      # macOS / Linux
+
 venv\Scripts\activate         # Windows
 
-5. Install Dependencies
+### 3. Install Dependencies
+   
 pip install -r requirements.txt
 
-4. Run the Data Analysis Notebook (Optional)
+###4. Run the Data Analysis Notebook (Optional)
 This notebook performs data cleaning and exploratory analysis.
 
 jupyter notebook
+
 Open:
+
 notebooks/energy_consumption_analysis.ipynb
+
 Run all cells.
 
-5. Run the Interactive Dashboard (Main Feature)
+### 5. Run the Interactive Dashboard (Main Feature)
+
 Open:
+
 notebooks/Energy Analytics Dashboard.ipynb
+
 Run all cells.
 
 ✔ What happens next?
