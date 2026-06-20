@@ -21,10 +21,11 @@ Fuel‑specific analyses highlight Ireland’s persistent reliance on oil and pe
 Overall, the study emphasises the importance of transparent data preparation, interactive visualisation, and population‑adjusted metrics in understanding Europe’s evolving energy landscape.
 
 The project uses:
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-Jupyter Notebook
-Custom visualizations
-GIF dashboard preview
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Custom visualizations
+- GIF dashboard preview
+
 ---
 
 ## 📂 Repository Structure
