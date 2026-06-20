@@ -3,6 +3,7 @@
 
 This project explores energy consumption patterns across European countries, with a particular focus on Ireland and Ukraine.
 It includes data cleaning, exploratory analysis, visualizations, and an interactive dashboard preview.
+
 ---
 
 ## 📌 Project Overview
