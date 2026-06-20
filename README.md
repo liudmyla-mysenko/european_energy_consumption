@@ -29,7 +29,7 @@ The project uses:
 ---
 
 ## 📂 Repository Structure
-//european_energy_consumption/
+'''european_energy_consumption/
 │
 ├── data/
 │   ├── clean_energy.csv
@@ -49,7 +49,7 @@ The project uses:
 │   ├── energy_consumption_analysis.ipynb
 │   ├── energy_analytics_dashboard.ipynb
 │
-└── README.md//
+└── README.md'''
 
 
 ## 📊 Key Visualizations
