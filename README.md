@@ -31,6 +31,7 @@ The project uses:
 ## 📂 Repository Structure
 
 ''' 
+
 european_energy_consumption/
 │
 ├── data/
@@ -52,6 +53,7 @@ european_energy_consumption/
 │   ├── energy_analytics_dashboard.ipynb
 │
 └── README.md
+
 '''
 
 ## 📊 Key Visualizations
